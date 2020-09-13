@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>BlueCaptain.png</file>
+        <file>BlueCar.png</file>
+        <file>BlueDuck.png</file>
+        <file>BlueElephant.png</file>
+        <file>BlueGuard.png</file>
+        <file>BlueHorse.png</file>
+        <file>BlueSoldier.png</file>
+        <file>RedCaptain.png</file>
+        <file>RedCar.png</file>
+        <file>RedDuck.png</file>
+        <file>RedElephant.png</file>
+        <file>RedGuard.png</file>
+        <file>RedHorse.png</file>
+        <file>RedSoldier.png</file>
+        <file>duck.jpg</file>
+    </qresource>
+</RCC>
